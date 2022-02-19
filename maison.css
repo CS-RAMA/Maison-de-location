@@ -1,0 +1,83 @@
+.tete{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.ram {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.logo{
+  height: 78px;
+}
+.left{
+    width: 50vh;
+    color: chocolate;
+    flex-grow: 50;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.right{
+    width: 50vh;
+    flex-grow: 50;
+
+}
+.ram a{
+    color: black;
+}
+.photo{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.image{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.pic{
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.main{
+    width: 500px;
+    height: 500px;
+    border: solid;
+    border-radius: 5%;
+}
+body{
+    background-color: rgb(212, 189, 197);
+}
+.hama{
+position: relative; 
+top: 300px;
+text-align: center;
+background-color: rgb(201, 98, 61);
+}
+
+.services{
+    color: chocolate;
+    font-size: 30px;
+
+}
+.buutn{
+    color: chocolate;
+
+}
+.copie{
+    margin-left: 0;
+    background-color: rosybrown;
+    position: relative;
+    text-align: left;
+}

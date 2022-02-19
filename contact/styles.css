@@ -1,0 +1,33 @@
+.put{
+margin-top: 20px;
+width: 30%;
+height: 60%;
+}
+.tete{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;  
+}
+.formule{
+    color: coral;
+    
+}
+.logo{
+    height: 78px;
+  }
+  .in{
+    color: coral;  
+  }
+  .hama{
+    position: relative; 
+    top: 500px;
+    text-align: center;
+    background-color: rgb(201, 98, 61);
+    }
+    .copie{
+        margin-left: 0px;
+        background-color: rosybrown;
+    }
+    body{
+        background-color: rgb(212, 189, 197);
+    }
